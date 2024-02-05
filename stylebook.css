@@ -1,0 +1,31 @@
+.book{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    height: calc(100vh - 76px);
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.booksection{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+.bookdetails{
+    height: 200px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+     
+}
+
+
+.bookimage{
+    height: 100%;
+    width: 100%;
+}

@@ -1,0 +1,22 @@
+
+
+.container{
+    margin-top: 20px;
+    height: 600px;
+    width: auto;
+    display: flex;
+
+}
+
+.para{
+    text-align: justify;
+}
+
+.btn{
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+}
+.btn:hover{
+    background-color: orange;
+}
